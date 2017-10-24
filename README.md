@@ -1,2 +1,2 @@
 # test1
-A little test
+A small test.
